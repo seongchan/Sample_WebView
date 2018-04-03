@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample WebView</string>
+    <string name="case1">html5test</string>
+</resources>
